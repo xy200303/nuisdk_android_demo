@@ -1,0 +1,38 @@
+# Android
+.gradle
+.idea
+.iml
+local.properties
+.DS_Store
+
+# Build
+build
+captures
+.apk
+.aab
+output.json
+
+# Gradle
+.gradle
+gradle-app.setting
+!gradle-wrapper.jar
+
+# Android Studio Navigation editor temp files
+.navigation
+
+# Keystore files
+.jks
+.keystore
+
+# External native build folder
+.externalNativeBuild
+
+# Fastlane
+fastlanereport.xml
+fastlanePreview.html
+fastlanescreenshots
+fastlanetest_output
+fastlanereadme.md
+
+# NDK
+.ndk
