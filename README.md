@@ -51,8 +51,8 @@
 
 1. **克隆项目**
    ```bash
-   git clone [项目地址]
-   cd NUI_SDK_DEMO
+   git clone https://github.com/xy200303/nuisdk_android_demo
+   cd nuisdk_android_demo
    ```
 
 2. **同步 Gradle**
